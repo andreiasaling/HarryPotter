@@ -1,4 +1,4 @@
-# HarryPotter
+# Harry Potter
 Página com resumo do universo Harry Potter
 
 Para visualizar a página [clique aqui](https://andreiasaling.github.io/HarryPotter/)
